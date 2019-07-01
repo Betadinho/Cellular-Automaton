@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f00340fc-59dd-4dfa-831b-0c9d933671ce" name="Default Changelist" comment="" />
+    <list default="true" id="f00340fc-59dd-4dfa-831b-0c9d933671ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/Life/com/Life/CA$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Life/com/Life/CA$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Life/com/Life/CA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Life/com/Life/Main.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/Life/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -60,41 +65,6 @@
           <expand>
             <path>
               <item name="Life" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Life" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Life" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Life" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Life" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Life" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Life" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Life" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="Life" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Life" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Life" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="Life" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Life" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Life" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="Life" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="Life" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -167,9 +137,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="232" y="76" width="1226" height="950" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21788195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21788195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -185,7 +154,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info active="true" anchor="bottom" x="178" y="414" width="1491" height="276" id="Version Control" order="9" visible="true" weight="0.32869786" />
+      <window_info anchor="bottom" x="178" y="414" width="1491" height="276" id="Version Control" order="9" visible="true" weight="0.32869786" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32938388" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -270,7 +239,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/Life/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
