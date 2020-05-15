@@ -1,5 +1,5 @@
 # Cellular-Automaton
-Elementary cellular automaton after Stephen Wolframs specifications.
+Rudimentary cellular automaton after Stephen Wolframs specifications.
 
 # Rule 90:
 Currently the CA is restricted to only one dimension and only using the command prompt
